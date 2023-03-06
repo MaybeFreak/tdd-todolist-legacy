@@ -3,10 +3,12 @@
 ## TodoList Legacy
 
 ### Learning Objectives
+
 - Explain and use a process to extend simple legacy code
 - Use the Red Green Refactor loop to develop code
 
 ### Quickstart
+
 1. Fork this repository
 2. Clone your fork to your local machine (example command below, see note)
 3. Install project dependencies
@@ -17,6 +19,7 @@ $ npm ci # to install dependencies
 ```
 
 ### Instructions
+
 1. Read the specs and domain model.
 2. Read the source code.
 3. Read and understand new requirements
@@ -40,11 +43,15 @@ You should be able to run this in your JS console (using your node REPL, or brow
 ```
 
 ### Extensions
+
 If you have time to do more (pick whichever interests you the most):
+
 ```
 E1. Setup scripts to run tests using an npm command for:
 - Running tests once
 - Running tests in watch mode
+
+Run this by using `npm run test:watch`
 ```
 
 ```
